@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Awechat\n"
+"POT-Creation-Date: 2019-04-02 17:11+0800\n"
+"PO-Revision-Date: 2019-04-02 17:13+0800\n"
+"Last-Translator: \n"
+"Language-Team: F.S. <01@eexx.me>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+
+#: Awechat.php:51
+msgid "Reset"
+msgstr "重置配置"
+
+#: Awechat.php:53
+msgid "Reset to default setting?"
+msgstr "确定删除现有配置并重置为默认值？"
+
+#: Awechat.php:57
+msgid "Reset Successfully!"
+msgstr "重置成功"
+
+#: includes/officialAccount.php:19
+msgid "Unauth Subscription Account"
+msgstr "未认证订阅号"
+
+#: includes/officialAccount.php:20
+msgid "Auth Subscription Account"
+msgstr "认证订阅号"
+
+#: includes/officialAccount.php:21
+msgid "Unauth Service Account"
+msgstr "未认证服务号"
+
+#: includes/officialAccount.php:22
+msgid "Auth Service Account"
+msgstr "认证服务号"
+
+#: includes/setting.php:49 includes/setting.php:50
+msgid "WeChat Settings"
+msgstr "微信公众号"
+
+#: includes/setting.php:83
+msgid "A WeChat Official Accout Connection"
+msgstr "微信公众号连接"
+
+#: includes/setting.php:87
+msgid "Account Settings"
+msgstr "账号配置"
+
+#: includes/setting.php:119
+msgid ""
+"Access verification for your WeChat public platform. Only Latin letter, "
+"number, dash and underscore. 30 character limited."
+msgstr ""
+"提供给微信公众平台校验获取账号许可。只能是英文字母、数字、下划线、中划线，"
+"不允许使用任何汉字或者全脚符号。最多允许30个字符。"
+
+#: includes/setting.php:128
+msgid ""
+"First input a TOKEN above and save the settings, then &quot;Copy&quot; and "
+"&quot;Bind&quot; this URL to WeChat Platform."
+msgstr ""
+"首先设置好上面的TOKEN，保存设置以后使用这个URL绑定到你的微信公众平台订阅"
+"号。"
+
+#: includes/setting.php:133
+msgid "Sync Up Settings"
+msgstr "文章同步"
+
+#: includes/setting.php:136
+msgid "Preview User Wechat ID"
+msgstr "预览用户微信号"
+
+#: includes/setting.php:144
+msgid ""
+"It will push a preview message only to this wechat ID when saving posts."
+msgstr "保存文章时可勾选仅发送给预览用户。"
+
+#: includes/setting.php:149
+msgid "Title Prefix"
+msgstr "标题前缀"
+
+#: includes/setting.php:157
+msgid "Add to Wechat OA article title automatically."
+msgstr "自动添加前缀到公众号文章标题"
+
+#: includes/setting.php:162
+msgid "Enable sync from XML-RPC"
+msgstr "开启XML-RPC微信同步"
+
+#: includes/setting.php:169
+msgid "Enable all sync when using destop app to write article."
+msgstr "自动同步用客户端写的文章到公众号。"
+
+#: includes/setting.php:176
+msgid "Default Cover"
+msgstr "默认封面图"
+
+#: includes/setting.php:187 includes/setting.php:208 includes/setting.php:229
+msgid "Upload"
+msgstr "上传"
+
+#: includes/setting.php:190 includes/setting.php:211 includes/setting.php:232
+msgid "Delete"
+msgstr "删除"
+
+#: includes/setting.php:197
+msgid "Follow Tips"
+msgstr "“关注公众号”提示图"
+
+#: includes/setting.php:218
+msgid "Read Source Tips"
+msgstr "“阅读原文”提示图"
+
+#: includes/setting.php:238
+msgid "Post tail"
+msgstr "微信文章尾巴"
+
+#: includes/setting.php:272
+msgid "Wechat OA Sync"
+msgstr "微信公众号同步"
+
+#: includes/setting.php:278
+msgid "Sync Meterial"
+msgstr "同步到公众号素材库"
+
+#: includes/setting.php:279
+msgid "Help"
+msgstr "帮助"
+
+#: includes/setting.php:283
+msgid "Show cover in content"
+msgstr "图文页内展示封面图"
+
+#: includes/setting.php:288
+msgid "Push Message"
+msgstr "微信公众号消息推送"
+
+#: includes/setting.php:290
+msgid "All"
+msgstr "所有粉丝"
+
+#: includes/setting.php:324
+msgid "Wechat Sync"
+msgstr "微信同步"
+
+#: includes/setting.php:341
+msgid "Sync Successfully!"
+msgstr "同步成功！"
+
+#: includes/setting.php:341
+msgid "Sync Failed!"
+msgstr "同步失败！"
+
+#~ msgid "Default Follow Tips"
+#~ msgstr "关注提示图"
+
+#~ msgid "Default Read Source Tips"
+#~ msgstr "阅读原文提示图"
+
+#~ msgid "Preview Message only"
+#~ msgstr "仅推送给预览账号"

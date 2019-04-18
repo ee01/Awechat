@@ -1,0 +1,12 @@
+{
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    },
+    "require": {
+        "overtrue/wechat": "~4.0",
+        "sunra/php-simple-html-dom-parser": "^1.5"
+    }
+}
