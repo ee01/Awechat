@@ -1,12 +1,20 @@
 # A Synchronization
 Contributors: e5201
+
 Donate link: https://it.eexx.me/
+
 Tags: sync, connect, wechat, wechat official account, WeChat OA
+
 Requires at least: 4.6
+
 Tested up to: 5.0
+
 Stable tag: 5.0
+
 Requires PHP: 7.0
+
 License: GPLv3
+
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 Synchronize articles to wechat official account.
