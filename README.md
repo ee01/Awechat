@@ -9,7 +9,7 @@ Requires at least: 4.6
 
 Tested up to: 5.0
 
-Stable tag: 5.0
+Stable tag: 2.0
 
 Requires PHP: 7.0
 
