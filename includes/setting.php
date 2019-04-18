@@ -216,7 +216,7 @@ class Awechat_setting {
 					<!-- Read Source Image-->
 					<tr valign="top">
 						<th scope="row">
-							<label><?php _e('QRCode', 'Awechat'); ?></label>
+							<label><?php _e('Read Source Tips', 'Awechat'); ?></label>
 						</th>
 						<td>
 						<div class="preview-box large">
