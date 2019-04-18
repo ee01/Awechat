@@ -1,4 +1,4 @@
-# A Synchronization
+# A Wechat
 Contributors: e5201
 
 Donate link: https://it.eexx.me/
