@@ -49,7 +49,7 @@ class Awechat_setting {
         $page_title=__('WeChat Settings', 'Awechat');
         $menu_title=__('WeChat Settings', 'Awechat');
         $capability='manage_options';
-        $menu_slug='Awechat_setting';
+        $menu_slug=AWECHAT_PLUGIN_OPTIONNAME;
         
         add_options_page(
         	$page_title,
@@ -302,7 +302,7 @@ class Awechat_setting {
     ?>
         <p>
             <input type="checkbox" name="wechat_meterial_sync" id="wechat_meterial_sync" <?php if ($options['appid']&&$options['appsecret']) echo 'checked';else echo 'disabled'; ?>/><label for="wechat_meterial_sync"><?php _e('Sync Meterial', 'Awechat') ?></label>
-            <a href="/wp-admin/options-general.php?page=Awechat_setting" style="float: right;"><span aria-hidden="true"><?php _e('Help', 'Awechat') ?></span></a>
+            <a href="/wp-admin/options-general.php?page=<?php echo AWECHAT_PLUGIN_OPTIONNAME ?>" style="float: right;"><span aria-hidden="true"><?php _e('Help', 'Awechat') ?></span></a>
         </p>
 		<section id="for_wechat_meterial_sync">
 			<p>
