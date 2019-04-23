@@ -21,7 +21,9 @@ Synchronize articles to wechat official account.
 
 ## Description
 
-Synchronize articles or audios to other platforms.
+Synchronize articles to wechat official account.
+
+If you need to synchronize to more other platforms, install plugin: https://wordpress.org/plugins/a-synchronization
 
 Now we support:
 * Sync post content to wechat OA material
