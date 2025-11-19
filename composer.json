@@ -1,4 +1,14 @@
 {
+    "name": "ee01/awechat",
+    "description": "WordPress WeChat Integration Plugin - 微信集成插件",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Esone Qiu",
+            "email": "esone.qiu@example.com"
+        }
+    ],
     "repositories": {
         "packagist": {
             "type": "composer",
@@ -6,6 +16,7 @@
         }
     },
     "require": {
+        "composer/installers": "^1.0 || ^2.0",
         "overtrue/wechat": "~4.0",
         "sunra/php-simple-html-dom-parser": "^1.5"
     }
